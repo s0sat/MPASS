@@ -55,5 +55,5 @@ perl MPASS_core.pl -d DISTANCElist.txt -o MPASSmatrix.txt -e 10 -t 8
 ## Recent updates:
 ***
 (6-21-2022)
-- MPASS.pl will be uploaded.
+- MPASS_core.pl was uploaded.
 <br><br>
