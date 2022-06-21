@@ -1,6 +1,6 @@
 ## Introduction:
 ***
-MPASS.pl creates a distance matrix for the construction of meta-phylogenomic trees from protein FASTA files obtained by the metagenomic shotgun sequencing.<br><br>
+MPASS_core.pl creates a distance matrix for the construction of meta-phylogenomic trees from protein FASTA files obtained by the metagenomic shotgun sequencing.<br><br>
 
 
 ## Pre-requisite:
@@ -35,16 +35,16 @@ FASTA headers must include gene No., node No., coverage and length of sequences 
 
 ## Installation:
 ***
-Download perl script MPASS.pl.
+Download perl script MPASS_core.pl.
 <br><br>
 
 ## Running (Example):
 ***
-After installation, MPASS.pl can be run directly from command line.
+After installation, MPASS_core.pl can be run directly from command line.
 The protein FASTA files must be in the current directory.
 (E-value threshold = 10, Number of threads = 8)
 ```vb
-perl MPASS.pl -d DISTANCElist.txt -o MPASSmatrix.txt -e 10 -t 8
+perl MPASS_core.pl -d DISTANCElist.txt -o MPASSmatrix.txt -e 10 -t 8
 ```
 <br><br>
 
