@@ -19,7 +19,7 @@ conda install -c bioconda phylip
 ```  
 <br>
 
-BIONJ can be downloaded from `http://www.atgc-montpellier.fr/bionj/binaries.php`.  
+BIONJ can be downloaded from `http://www.atgc-montpellier.fr/bionj`.  
 <br>
 
 The file name of protein FASTA files should be as `*_aa`. No file extension is required.<br>
