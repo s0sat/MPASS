@@ -26,7 +26,7 @@ The file name of protein FASTA files should be as `*_aa`. No file extension is r
 FASTA headers must include gene No., node No., coverage and length of sequences as follows:
 
 ```vb
->gene_x_NODE_y_covaaaa_lengthbbbb
+>gene_x_NODE_y_cova_lengthb
 
 (Example)
 >gene_2_NODE_1_cov14.182092_length17667
