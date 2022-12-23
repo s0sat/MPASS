@@ -113,11 +113,11 @@ Satoh S, Tanaka R, Yokono M, Endoh D, Yabuki T, and Tanaka A. Phylogeny analysis
 
 ## Recent updates:
 ***
-(12-27-2022)
+(12-23-2022)
 - MPASS.pl (Full version) is now available.
 - Formula to calculate the metagenomic distances is changed from one that uses the simple 16S-substitution rates to one that uses the poisson-corrected 16S-substitution rates (Both MPASS.pl and MPASS_core.pl).
 - Requirements, procedures for running scripts, and citation are updated.
 
-(6-20-2022)
+(6-21-2022)
 - MPASS_core.pl is now available.
 <br><br>
