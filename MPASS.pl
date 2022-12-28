@@ -1,7 +1,7 @@
 #!/usr/bin/perl 
 
 #Copyright  (c) 2022  Soichirou Satoh
-#This software is released under the MIT License.
+#This Perl script is released under the MIT License.
 #http://opensource.org/licenses/mit-license.php
 
 #use strict;
