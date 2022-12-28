@@ -112,7 +112,7 @@ Satoh S, Tanaka R, Yokono M, Endoh D, Yabuki T, and Tanaka A. Phylogeny analysis
 <br><br><br><br><br>
 
 ***
-This Perl script is released under the MIT License, see LICENSE.txt.
+These Perl scripts are released under the MIT License, see LICENSE.txt.
 <br><br><br><br>
 
 ## Recent updates:
