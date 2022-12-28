@@ -111,6 +111,10 @@ perl FilteringFastq_for_MPASS.pl -h
 Satoh S, Tanaka R, Yokono M, Endoh D, Yabuki T, and Tanaka A. Phylogeny analysis of whole protein-coding genes in metagenomic data detected an environmental gradient for the microbiota. bioRxiv. https://doi.org/10.1101/2022.07.04.498637
 <br><br><br><br><br>
 
+***
+This Perl script is released under the MIT License, see LICENSE.txt.
+
+
 ## Recent updates:
 ***
 (12-23-2022)
