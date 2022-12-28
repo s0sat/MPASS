@@ -1,7 +1,10 @@
 #!usr/bin/perl
 
-# Reference: Bolger, A.M., Lohse, M., and Usadel, B. (2014) Trimmomatic: A flexible trimmer for Illumina Sequence Data. Bioinformatics, btu170.
-# Automatically filtering of all paired-end fastq files in the current directory by Trimmomatic.
+#Copyright  (c) 2022  Soichirou Satoh
+#This Perl script is released under the MIT License.
+#http://opensource.org/licenses/mit-license.php
+
+# Automatically filtering of all paired-end fastq files in the current directory using Trimmomatic.
 
 ##### I. Set arguments ###################################################################
 use Cwd 'getcwd';
