@@ -4,7 +4,7 @@ MPASS.pl creates a distance matrix for the construction of metaphylogenomic tree
 
 
 ${\Large \color{red}Attention}$<br>
-(1-25-2023) Currently MPASS.pl and MPASS_core.pl **cannot handle filenames longer than 8 characters**. We are currently working on this problem.
+(1-25-2023) Currently **MPASS_core.pl** cannot handle filenames longer than 8 characters. We are currently working on this problem. There is **no problem with MPASS.pl**.
 <br><br><br>
 
 ## Pre-requisite:
