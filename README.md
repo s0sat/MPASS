@@ -3,7 +3,7 @@
 MPASS.pl creates a distance matrix for the construction of metaphylogenomic trees from the metagenomic shotgun sequencing data.<br><br>
 
 
-${\color{red}Attention}$
+**${\color{red}Attention}$**<br>
 (1-25-2023) Currently MPASS.pl and MPASS_core.pl **cannot handle filenames longer than 8 characters**. We are currently working on this problem.
 <br><br><br>
 
