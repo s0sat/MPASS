@@ -1,11 +1,6 @@
 ## Introduction:
 ***
-MPASS.pl creates a distance matrix for the construction of metaphylogenomic trees from the metagenomic shotgun sequencing data.<br><br>
-
-
-${\Large \color{red}Attention}$<br>
-(1-25-2023) Currently **MPASS_core.pl** cannot handle filenames longer than 8 characters. We are currently working on this problem. There is **no problem with MPASS.pl**.
-<br><br><br>
+MPASS.pl creates a distance matrix for the construction of metaphylogenomic trees from the metagenomic shotgun sequencing data.<br><br><br>
 
 ## Pre-requisite:
 ***
@@ -121,6 +116,10 @@ These Perl scripts are released under the MIT License, see LICENSE.txt.
 
 ## Recent updates:
 ***
+(1-31-2023)
+- Problem of MPASS_core.pl has been resolved.
+- MPASS_core.pl can handle filenames longer than 8 characters.
+
 (12-23-2022)
 - MPASS.pl (Full version) is now available.
 - Formula to calculate the metagenomic distances is changed from one that uses the simple 16S-substitution rates to one that uses the poisson-corrected 16S-substitution rates (Both MPASS.pl and MPASS_core.pl).
