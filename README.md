@@ -107,7 +107,10 @@ perl FilteringFastq_for_MPASS.pl -h
 
 ## Citation:
 ***
-Satoh S, Tanaka R, Yokono M, Endoh D, Yabuki T, and Tanaka A. Phylogeny analysis of whole protein-coding genes in metagenomic data detected an environmental gradient for the microbiota. bioRxiv. https://doi.org/10.1101/2022.07.04.498637
+Satoh S, Tanaka R, Yokono M, Endoh D, Yabuki T, and Tanaka A. Phylogeny analysis of whole protein-coding genes in metagenomic data detected an environmental gradient for the microbiota. PLoS One (2023) 18:e0281288. https://doi: 10.1371/journal.pone.0281288.
+<br><br>
+See also 
+bioRxiv. https://doi.org/10.1101/2022.07.04.498637
 <br><br><br><br><br>
 
 ***
@@ -116,6 +119,12 @@ These Perl scripts are released under the MIT License, see LICENSE.txt.
 
 ## Recent updates:
 ***
+(3-15-2023)
+- Citation is updated.
+
+(2-2-2023)
+- The MPASS method was published in the PLoS ONE.
+
 (1-31-2023)
 - Problem of MPASS_core.pl has been resolved.
 - MPASS_core.pl can handle filenames longer than 8 characters.
