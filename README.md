@@ -68,8 +68,14 @@ The header lines of each sequence must include gene No., node No., coverage and 
 
 ## Installation:
 ***
-Download perl script MPASS.pl or MPASS_core.pl.
-<br><br><br><br><br>
+Download perl script MPASS.pl or MPASS_core.pl.<br>
+It is recommended to either place these Perl scripts in a designated working directory or add their path to the system's environment variable.
+<br><br>
+If you are unable to move or save the results file, or if you receive an error related to this task, installing the following package may solve the problem.
+```vb
+conda install -c bioconda perl-file-which
+```
+<br><br><br><br>
 
 ## Running (Example):
 ***
@@ -119,6 +125,9 @@ These Perl scripts are released under the MIT License, see LICENSE.txt.
 
 ## Recent updates:
 ***
+(3-31-2023)
+- Installation is updated.
+
 (3-15-2023)
 - Citation is updated.
 
