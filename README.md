@@ -126,11 +126,11 @@ These Perl scripts are released under the MIT License, see LICENSE.txt.
 ## Recent updates:
 ***
 (11-1-2023)
-- Example files for MPASS_core.pl (MPASS_core_example) are updated.
-- Protein FASTA files for MPASS_core.pl : G1_a_aa, G1_b_aa, G2_a_aa, G2_b_aa, G3_a_aa, G3_b_aa
-- Distance calculated using example protein FASTA files : DISTANCElist_example
-- Distance matrix created from DISTANCElist_example : MPASSmatrix_example.txt
-- Tree file created from MPASSmatrix_example.txt
+- Example files for MPASS_core.pl (MPASS_core_example) are now available.
+- Protein FASTA files for MPASS_core.pl: G1_a_aa, G1_b_aa, G2_a_aa, G2_b_aa, G3_a_aa, G3_b_aa
+- Distance calculated using example protein FASTA: DISTANCElist_example
+- Distance matrix created from DISTANCElist_example: MPASSmatrix_example.txt
+- Tree file created from MPASSmatrix_example.txt: Tree_example.txt
 
 (3-31-2023)
 - Installation is updated.
